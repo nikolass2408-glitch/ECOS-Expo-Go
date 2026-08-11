@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ECOS Mobile",
+    "slug": "ecos-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true
+  }
+}
